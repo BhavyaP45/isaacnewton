@@ -1,0 +1,37 @@
+body {
+  background-color: black;
+  color:white;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+h1, h2, p {
+  text-align: center;
+}
+
+span {
+  font-style:italic;
+}
+
+li {
+  margin-bottom: 15px;
+}
+
+.center {
+  display: block;
+  margin: auto;
+}
+
+.main-image {
+  height: 300px;
+}
+
+.body-component {
+  width: 75%;
+  padding: 30px 0px;
+  border-bottom: 5px solid aqua;
+}
+
+.resource {
+  color:red;
+  text-align: center;
+}
